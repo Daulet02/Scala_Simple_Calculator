@@ -1,0 +1,13 @@
+[debug] Packaging C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\calculator_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Calc
+[debug] 	  C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\classes\Calc
+[debug] 	Calc\Calculus.class
+[debug] 	  C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\classes\Calc\Calculus.class
+[debug] 	Main$.class
+[debug] 	  C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\classes\Main$.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\classes\Main$delayedInit$body.class
+[debug] 	Main.class
+[debug] 	  C:\Users\user\Desktop\Scala_\Calculator\target\scala-2.13\classes\Main.class
+[debug] Done packaging.
